@@ -1,1 +1,3 @@
+Dodane coś
+Sprawdzić
 # Testowe
